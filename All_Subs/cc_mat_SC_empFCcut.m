@@ -5,8 +5,8 @@
 % 		EmpFC (i)
 % SC (j)
 %
-%NOTE: For petras data, this script doesnt include QL_20120814 (orig 37th subject) and
-%LG_20140324_1130 (orig 28th sub)
+% NOTE: For petras data, this script doesnt include QL_20120814 (orig 37th subject) and
+% LG_20140324_1130 (orig 28th sub)
 % Note: Petra's data: FC matrix sig tested, MC corrected, fisher z transformed. Corr on
 % FC & SC taken on top triangle                                                                        %
 
